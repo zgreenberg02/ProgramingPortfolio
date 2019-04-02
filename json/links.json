@@ -1,8 +1,26 @@
 [
     {
-        "name": "GitHub",
-        "color": "black",
-        "icon": "github-circle",
-        "url": "https://github.com/zgreenberg02"
+        "name": "Link",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
+	},
+    {
+        "name": "Link",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
+	},
+    {
+        "name": "Link",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
+	},
+    {
+        "name": "Link",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
 	}
 ]
