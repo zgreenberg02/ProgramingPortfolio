@@ -18,15 +18,15 @@
         "link": "https://github.com/zgreenberg02/Calendar"
 	},
     {
-        "name": "Calculator",
-        "description": "An interactive fully functioning calculator written in processing.",
-        "image": "images/calculator.png",
-        "link": "https://github.com/zgreenberg02/calculator"
-	},
-    {
         "name": "Chess",
         "description": "A terminal chess game written in c++ using ASCII characters. Created By Zach Greenberg, Lucas Zagal, Pyae Sone.",
         "image": "images/chess.png",
         "link": "https://github.com/Arcane-Panda/Chess"
+	},
+    {
+        "name": "Calculator",
+        "description": "An interactive fully functioning calculator written in processing.",
+        "image": "images/calculator.png",
+        "link": "https://github.com/zgreenberg02/calculator"
 	}
 ]
