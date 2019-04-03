@@ -19,8 +19,8 @@
 	},
     {
         "name": "Calculator",
-        "description": "An interactive fully functioning calculator written in processing",
-        "image": "images/calculator.jpg",
+        "description": "An interactive fully functioning calculator written in processing.",
+        "image": "images/calculator.png",
         "link": "https://github.com/zgreenberg02/calculator"
 	},
     {
