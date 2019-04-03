@@ -7,13 +7,13 @@
 	},
     {
         "name": "Maze Solver",
-        "description": "This is a program that finds the exit(s) to mazes ",
+        "description": "This is a program that finds the exit(s) to mazes.",
         "image": "images/maze.PNG",
         "link": "https://github.com/zgreenberg02/MazeSolver"
 	},
     {
         "name": "Calendar",
-        "description": "A program that allows you to add and keep track of single and reoccurring events .",
+        "description": "A program that allows you to add and keep track of single and reoccurring events.",
         "image": "images/calendar.PNG",
         "link": "https://github.com/zgreenberg02/Calendar"
 	},
