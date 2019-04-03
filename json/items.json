@@ -12,10 +12,10 @@
         "link": "https://github.com/zgreenberg02/MazeSolver"
 	},
     {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Calendar",
+        "description": "A program that allows you to add and keep track of single and reoccurring events .",
+        "image": "images/calendar.PNG",
+        "link": "https://github.com/zgreenberg02/Calendar"
 	},
     {
         "name": "Project 4",
