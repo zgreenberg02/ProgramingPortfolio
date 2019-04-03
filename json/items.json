@@ -27,6 +27,6 @@
         "name": "Chess",
         "description": "A terminal chess game written in c++ using ASCII characters. Created By Zach Greenberg, Lucas Zagal, Pyae Sone.",
         "image": "images/chess.png",
-        "link": "https://github.com/Arcane-Panda/Chess/tree/master/source/main"
+        "link": "https://github.com/Arcane-Panda/Chess"
 	}
 ]
