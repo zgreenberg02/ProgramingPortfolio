@@ -18,10 +18,10 @@
         "link": "https://github.com/zgreenberg02/Calendar"
 	},
     {
-        "name": "Project 4",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Calculator",
+        "description": "An interactive fully functioning calculator written in processing",
+        "image": "images/calculator.jpg",
+        "link": "https://github.com/zgreenberg02/calculator"
 	},
     {
         "name": "Project 5",
