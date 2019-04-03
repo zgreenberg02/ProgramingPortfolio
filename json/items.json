@@ -6,10 +6,10 @@
         "link": "https://github.com/zgreenberg02/ZG-BoardGame"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Maze Solver",
+        "description": "This is a program that finds the exit(s) to mazes ",
+        "image": "images/maze.PNG",
+        "link": "https://github.com/zgreenberg02/MazeSolver"
 	},
     {
         "name": "Project 3",
