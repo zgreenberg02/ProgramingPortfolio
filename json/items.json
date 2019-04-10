@@ -36,17 +36,17 @@
         "link": "https://github.com/zgreenberg02/Computer_Timeline"
 	},
     {
-        "name": "Screensaver",
-        "description": "An application that creates a cool design of lines for a screensaver. ",
-        "image": "images/screensaver.PNG",
-        "link": "https://github.com/zgreenberg02/screensaver"
-	},
-    {
         "name": "Shape Calculator",
         "description": "A program written in c++ that calculates the volume and surface area of shapes.",
         "image": "images/shapeCalculator.png",
         "link": "https://github.com/zgreenberg02/shapeCalculator"
 	},    
+    {
+        "name": "Screensaver",
+        "description": "An application that creates a cool design of lines for a screensaver. ",
+        "image": "images/screensaver.PNG",
+        "link": "https://github.com/zgreenberg02/screensaver"
+	},
     {
         "name": "Calculator",
         "description": "An interactive fully functioning calculator written in processing.",
