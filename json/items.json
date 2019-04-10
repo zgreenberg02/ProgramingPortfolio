@@ -24,12 +24,6 @@
         "link": "https://github.com/Arcane-Panda/Chess"
 	},
     {
-        "name": "Calculator",
-        "description": "An interactive fully functioning calculator written in processing.",
-        "image": "images/calculator.png",
-        "link": "https://github.com/zgreenberg02/calculator"
-	},
-    {
         "name": "Mph to Kmph Converter",
         "description": "An interactive application written in processing that converts Miles per hour to Kilometers per hour.",
         "image": "images/Mph_Converter.png",
@@ -52,5 +46,11 @@
         "description": "A program written in c++ that calculates the volume and surface area of shapes.",
         "image": "images/shapeCalculator.png",
         "link": "https://github.com/zgreenberg02/shapeCalculator"
+	},    
+    {
+        "name": "Calculator",
+        "description": "An interactive fully functioning calculator written in processing.",
+        "image": "images/calculator.png",
+        "link": "https://github.com/zgreenberg02/calculator"
 	}
 ]
