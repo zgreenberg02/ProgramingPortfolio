@@ -29,4 +29,28 @@
         "image": "images/calculator.png",
         "link": "https://github.com/zgreenberg02/calculator"
 	}
+    {
+        "name": "Mph to Kmph Converter",
+        "description": "An interactive application written in processing that converts Miles per hour to Kilometers per hour.",
+        "image": "images/Mph_Converter.png",
+        "link": "https://github.com/zgreenberg02/Mph_to_Kmph_Converter"
+	},
+    {
+        "name": "Computer Timeline",
+        "description": "An interactive timeline of early digital computers written in processing.",
+        "image": "images/computerTimeline.png",
+        "link": "https://github.com/zgreenberg02/Computer_Timeline"
+	},
+    {
+        "name": "Screensaver",
+        "description": "An application that creates a cool design of lines for a screensaver. ",
+        "image": "images/screensaver.png",
+        "link": "https://github.com/zgreenberg02/screensaver"
+	},
+    {
+        "name": "Shape Calculator",
+        "description": "A program written in c++ that calculates the volume and surface area of shapes.",
+        "image": "images/shapeCalculator.png",
+        "link": "https://github.com/zgreenberg02/shapeCalculator"
+	},
 ]
