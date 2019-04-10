@@ -6,10 +6,22 @@
         "link": "https://github.com/zgreenberg02/ZG-BoardGame"
 	},
     {
+        "name": "Mph to Kmph Converter",
+        "description": "An interactive application written in processing that converts Miles per hour to Kilometers per hour.",
+        "image": "images/Mph_Converter.png",
+        "link": "https://github.com/zgreenberg02/Mph_to_Kmph_Converter"
+	},
+    {
         "name": "Maze Solver",
         "description": "This is a program that finds the exit(s) to mazes.",
         "image": "images/maze.PNG",
         "link": "https://github.com/zgreenberg02/MazeSolver"
+	},
+    {
+        "name": "Screensaver",
+        "description": "An application that creates a cool design of lines for a screensaver. ",
+        "image": "images/screensaver.PNG",
+        "link": "https://github.com/zgreenberg02/screensaver"
 	},
     {
         "name": "Calendar",
@@ -24,12 +36,6 @@
         "link": "https://github.com/Arcane-Panda/Chess"
 	},
     {
-        "name": "Mph to Kmph Converter",
-        "description": "An interactive application written in processing that converts Miles per hour to Kilometers per hour.",
-        "image": "images/Mph_Converter.png",
-        "link": "https://github.com/zgreenberg02/Mph_to_Kmph_Converter"
-	},
-    {
         "name": "Computer Timeline",
         "description": "An interactive timeline of early digital computers written in processing.",
         "image": "images/computerTimeline.png",
@@ -41,12 +47,6 @@
         "image": "images/shapeCalculator.png",
         "link": "https://github.com/zgreenberg02/shapeCalculator"
 	},    
-    {
-        "name": "Screensaver",
-        "description": "An application that creates a cool design of lines for a screensaver. ",
-        "image": "images/screensaver.PNG",
-        "link": "https://github.com/zgreenberg02/screensaver"
-	},
     {
         "name": "Calculator",
         "description": "An interactive fully functioning calculator written in processing.",
