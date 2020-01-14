@@ -1,5 +1,5 @@
-# ProgrammingPortfolio
+# ProgramingPortfolio
 
 A website highliting some of my progamming projects.
 
-![Programming Portfolio Website Screencapture](https://github.com/zgreenberg02/ProgramingPortfolio/ProgrammingPortfolio.png)
+![Programing Portfolio Website Screencapture](https://github.com/zgreenberg02/ProgramingPortfolio/blob/master/ProgrammingPortfolio.png)
