@@ -7,7 +7,7 @@
 	},
     {
         "name": "Maze Solver",
-        "description": "This is a program that finds the exit(s) to mazes.",
+        "description": "This is a program that finds the exit(s) to mazes, starting at the X.",
         "image": "images/maze.PNG",
         "link": "https://github.com/zgreenberg02/MazeSolver"
 	},
